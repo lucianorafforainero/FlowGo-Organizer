@@ -1,6 +1,6 @@
 # FlowGo Organizer
 
-**Autor:** Luciano Raffo  
+**Autor:** Luciano Raffo Rainero
 **Proyecto:** FlowGo Automation — Demo 1  
 **Versión:** 1.2
 
@@ -45,7 +45,6 @@ Ideal para usuarios o empresas que necesitan mantener carpetas limpias y ordenad
 
 ## Ejemplo
 
-"""
  Ingresá la ruta de la carpeta que querés organizar: C:\Users\lucia\Downloads
  ¿Querés mover los archivos de verdad? (s/n): n
 
@@ -68,7 +67,6 @@ Estructura resultante
     │   └── foto.png
     └── sin_extension/
         └── nota
-"""
 
 ## Requisitos
 
@@ -80,4 +78,4 @@ No requiere librerías externas
 
 Uso libre para demostraciones, estudios o desarrollo de automatizaciones personalizadas dentro de FlowGo Automation.
 
-© 2025 — Luciano Raffo · FlowGo Automation
+© 2025 — Luciano Raffo Rainero · FlowGo Automation
